@@ -1,3 +1,20 @@
+// ============================================
+//        MADE BY NEYZOX! 
+//        DESIGNED BY NEYZOX
+// ============================================
+// You can change everything! Here's how to run it:
+//
+//   1. Compile the file:
+//      javac Main.java
+//
+//   2. Run the program:
+//      java Main
+//
+// Feel free to edit, break, and rebuild this however you want.
+// ============================================
+
+
+
 import java.util.Scanner;
 
 public class Main {
